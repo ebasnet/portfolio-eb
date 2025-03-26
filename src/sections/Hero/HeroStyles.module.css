@@ -10,6 +10,7 @@
   .hero {
     max-width: 150px;
     border-radius: 60px;
+    margin-right: 10px; /* Add margin to create space */
   }
 
   span {
@@ -87,6 +88,7 @@
     .hero {
       max-width: 350px;
       width: 350px;
+      margin-right: 15px; /* Add margin for bigger screens */
     }
   }
 }
@@ -96,6 +98,7 @@
     .hero {
       max-width: 400px;
       width: 400px;
+      margin-right: 20px; /* More margin on larger screens */
     }
   }
 }
